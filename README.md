@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saidakrom</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently stdying on [OPEN WEB ACADEMY](https://www.owa.uz)
+- 🔭 I’m currently studying on [OPEN WEB ACADEMY](https://www.owa.uz)
 
 - 🌱 I’m currently learning **NODE JS, Express**
 
